@@ -5,7 +5,7 @@
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
       Hai 👋 <br>
-      Saya <b>[ubah jadi nama adik"]</b>, selaku peserta yang mengikuti pembelajaran<b>DevCycle</b>. <br><br>
+      Saya <b>[Nur Aviva"]</b>, selaku peserta yang mengikuti pembelajaran<b>DevCycle</b>. <br><br>
       Pada kesempatan ini, saya ingin memperlihatkan hasil latihan desain dari kegiatan 
       <b>DevCycle UI/UX Designer</b>.
     </td>
